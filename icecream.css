@@ -1,0 +1,66 @@
+body{
+	font-family: "Marker Felt", "Comic Sans MS", fantasy;
+	color: #003366;
+}
+
+h1 {
+	font-size: 1.3em;
+	text-align: center;
+}
+
+h2 {
+	background-color: #FFFFFF;
+}
+
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	border-collapse: collapse;
+	border-radius: 5px;
+	cellspacing: 0px;
+}
+
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#9FB6CD; 
+}
+
+th {
+	text-align: center;
+	color: #f2ffff;
+	background-color: #003366;
+}
+
+td:hover {
+	background-color: #FFFFFF;
+}
+
+.button {
+	background-color: #00ccff;
+	width: 100px;
+	height: 55px;
+	border: 2px solid #00FFFF;
+	border-radius: 10px;
+	display: inline-block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button:hover {
+	background-color: #ddee00;
+	color: #FF0000;
+	border-color: #FF0FFF;
+}
+
+a {
+	text-decoration: none;
+}
+
+.buttonlink {
+	margin-left: auto;
+	margin-right: auto;
+}
